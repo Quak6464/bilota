@@ -1,13 +1,13 @@
 const config = {
     
-    USERNAME: "User#0000",
+    USERNAME: "bilota#0000",
     /**
      * This can either be a file link (relative or external)
      * or a Gravatar email or hash.
      */
     PICTURE: "assets/img/profile_picture.png",
 
-    DESCRIPTION: "Change this bio in the <b>assets/config.js</b> file. <i>It may include HTML syntax</i>",
+    DESCRIPTION: "<i>hey I am bilota</i>",
 
     BADGES: [
         { id: "HypeSquad Bravery", image: "assets/img/hypesquad_bravery.svg" },
